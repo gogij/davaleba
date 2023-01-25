@@ -1,0 +1,8 @@
+მოდელი:ACER Aspire 3
+ოპერატიული სისტემა:Free Dos
+მოკროპროცესორი:Intel Core I5-1035G1,4Core,1.0 Ghz Up To 3.6 Ghz
+ვიდეო დაფა:NVIDIA GeForce MX330
+ოპერატიული მეხსიერება:RAM 8GB,DDR4,3200Mhz
+ეკრანი:15.6 Full HD(1920-1080),TN.Matt,220 Nits
+მყარი დისკი:HDD 1TB,5400 RPM, SSD 128 GB 
+ოპტიკური დისკწამყვანი: NO 
